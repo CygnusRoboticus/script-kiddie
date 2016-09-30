@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ScriptKiddie</string>
     <string name="action_settings">Settings</string>
+    <string name="title_script_list">Scripts</string>
+    <string name="title_script_detail">Script Detail</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
